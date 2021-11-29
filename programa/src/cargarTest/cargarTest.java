@@ -25,25 +25,25 @@ public class cargarTest {
 		String carpeta = "F:\\Eclipse\\Eclipse IDE\\workSpace\\Test-Fran-Definitivo\\programa\\src\\resources\\testIngles";
 
 		// Invoco a la función para "leer"
-		listFilesForFolder(new File(carpeta));
+		leerArchivosDeCarpeta(new File(carpeta));
 		System.out.println("Fin ejecucion");
 	}
 
 	// recorre los ficheros y los lee.
-	public static void listFilesForFolder(File folder) {
+	public static void leerArchivosDeCarpeta(File carpeta) {
 		int aux = 0;
-		for (final File fileEntry : folder.listFiles()) {
+		for (final File archivoEntrada : carpeta.listFiles()) {
 
-			if (fileEntry.isDirectory()) {
-				listFilesForFolder(fileEntry);
+			if (archivoEntrada.isDirectory()) {
+				leerArchivosDeCarpeta(archivoEntrada);
 
 			} else {
-				System.out.println(fileEntry.getName());
-				Path filePath = Paths.get(fileEntry.getAbsolutePath());
+				System.out.println(archivoEntrada.getName());
+				Path direccionArchivo = Paths.get(archivoEntrada.getAbsolutePath());
 					try {
-						String content = Files.readString(filePath);
+						String contenidoArchivo = Files.readString(direccionArchivo);
 
-						System.out.println(content);
+						System.out.println(contenidoArchivo);
 					} catch (IOException e) {
 						e.printStackTrace();
 					}
