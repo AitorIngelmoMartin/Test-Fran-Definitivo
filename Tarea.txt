@@ -1,0 +1,14 @@
+
+1)Hay que leer todos los ficheros del directorio test.
+
+2)Hay que leer cada uno de los ficheros.
+
+3)Hay que crear objetos test, preguntas y respuestas
+
+4)Hay que meterlos en el listadoTest
+
+
+es decir...
+cuando finalice la ejecucion de tu programa tienes que tener en tu objeto listadoTest
+toooodos los test cargados que se han creado desde los ficheros.
+

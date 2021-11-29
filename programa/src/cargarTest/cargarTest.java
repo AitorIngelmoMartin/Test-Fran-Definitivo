@@ -32,7 +32,6 @@ public class cargarTest {
 	// recorre los ficheros y los lee.
 	public static void listFilesForFolder(File folder) {
 		int aux = 0;
-		int aux2 = 0;
 		for (final File fileEntry : folder.listFiles()) {
 
 			if (fileEntry.isDirectory()) {
