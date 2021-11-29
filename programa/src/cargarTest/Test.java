@@ -2,7 +2,7 @@ package cargarTest;
 
 import java.util.ArrayList;
 
-public class Test {
+public class Test {//GET=MOSTRAR  //SET = MODIFICAR
 
 	String tituloTest;
 

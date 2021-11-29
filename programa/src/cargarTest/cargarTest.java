@@ -6,7 +6,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-
+import java.util.Scanner;
 public class cargarTest {
 
 	static ArrayList<Test> listadoTest = new ArrayList<Test>();
@@ -41,14 +41,22 @@ public class cargarTest {
 				System.out.println(archivoEntrada.getName());
 				Path direccionArchivo = Paths.get(archivoEntrada.getAbsolutePath());
 					try {
+						Scanner linea = new Scanner(new File("archivoEntrada.getName()"));
+							while(linea!=null) {
+								 if(linea.contains("G")){// Condición de filtro
+								 
+								 }
+						    }
+							
+						}
 						String contenidoArchivo = Files.readString(direccionArchivo);
-
 						System.out.println(contenidoArchivo);
 					} catch (IOException e) {
 						e.printStackTrace();
 					}
-				aux++;
+				
 			}
+			aux++;
 		}
 		System.out.println("Total Files: " + aux);
 	}
