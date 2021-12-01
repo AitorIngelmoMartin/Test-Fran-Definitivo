@@ -12,3 +12,277 @@ es decir...
 cuando finalice la ejecucion de tu programa tienes que tener en tu objeto listadoTest
 toooodos los test cargados que se han creado desde los ficheros.
 
+EJEMPLO TEST----------------------------------------------------------------------------------------------
+
+TITULO-->EXAMEN INGLÉS TORREJÓN DE ARDOZ 2020
+Pregunta: 1
+Enunciado: There's the man _____ took your coat:
+Respuesta: Which.
+Respuesta Correcta: Who.
+Respuesta: How.
+Explicacion: EXPLICACIÓN:
+Allí está el hombre que cogió tu abrigo.
+A) Respuesta incorrecta:
+Al ser una oración de relativo siendo el antecedente persona NO podemos usar which.
+B) Respuesta correcta:
+Oración de relativo con antecedente relativo a persona WHO.
+C) Respuesta incorrecta:
+No es correcto el uso de "how" en esta oración.
+---------------------------------
+Pregunta: 2
+Enunciado: If you ____ me, I _____in real trouble last year:
+Respuesta: Didn’t help / would have been.
+Respuesta Correcta: Hadn´t helped / would have been.
+Respuesta: Hadn´t helped / would be.
+Explicacion: EXPLICACIÓN:
+Si no me hubieras ayudado, hubiera estado en problemas el año pasado.
+A) Respuesta incorrecta:
+Al ser una estructura de tercera condicional, no admite el uso de pasado simple en la oración de IF.
+B) Respuesta correcta:
+Estructura de tercera condicional: IF + pasado perfecto, WOULD HAVE+verbo en participio.
+C) Respuesta incorrecta:
+Al ser una tercera condicional no admite en la oración del resultado el uso de "would" seguido de infinitivo.
+---------------------------------
+Pregunta: 3
+Enunciado: I'm not sure what ______:
+Respuesta: Do they want?
+Respuesta: Do they want.
+Respuesta Correcta: They want.
+Explicacion: EXPLICACIÓN:
+No estoy seguro de lo que ellos quieren.
+A) Respuesta incorrecta:
+Al no ser una interrogativa no es correcta la estructura.
+B) Respuesta incorrecta:
+No es correcto el uso de DO.
+C) Respuesta correcta:
+No es una oración interrogativa, por lo tanto usamos la estructura de sujeto + verbo.
+---------------------------------
+Pregunta: 4
+Enunciado: Her parents don't want ____ married:
+Respuesta Correcta: Her to get.
+Respuesta: Her get.
+Respuesta: That she gets.
+Explicacion: EXPLICACIÓN:
+Sus padres no quieren que ella se case.
+A) Respuesta correcta:
+Con el verbo want siempre tiene que ir la partícula "TO"; el pronombre objeto se coloca entre ambas partes.
+B) Respuesta incorrecta:
+Falta "to".
+C) Respuesta incorrecta:
+Mala traducción.
+---------------------------------
+Pregunta: 5
+Enunciado: Try ______ be late:
+Respuesta Correcta: Not to.
+Respuesta: To not.
+Respuesta: Not.
+Explicacion: EXPLICACIÓN:
+Intenta no llegar tarde.
+A) Respuesta correcta:
+Al ser negativo usamos "not" delante de la partícula "to".
+B) Respuesta incorrecta:
+Estructura incorrecta (orden).
+c) Respuesta incorrecta:
+Falta "to".
+---------------------------------
+Pregunta: 6
+Enunciado: Although he felt very ____, he smiled ______:
+Respuesta: Angrily / friendly.
+Respuesta: Angry / friendly.
+Respuesta Correcta: Angry / in a friendly way.
+Explicacion: EXPLICACIÓN:
+Aunque se sentía enfadado, sonrió cordialmente.
+A) Respuesta incorrecta:
+En la primera parte necesitamos un adjetivo NO adverbio y en la segunda parte necesitamos un adverbio NO un adjetivo.
+B) Respuesta incorrecta:
+En la segunda parte de la oración necesitamos un adverbio y NO un adjetivo como "friendly".
+C) Respuesta correcta:
+En la primera parte necesitamos un adjetivo (angry) y en la segunda el adverbio "in a friendly way" que significa, cordialmente, cariñosamente, afectuosamente.
+---------------------------------
+Pregunta: 7
+Enunciado: She's an old friend; I _____ her____ years:
+Respuesta: Know / for.
+Respuesta Correcta: 've known / for.
+Respuesta: 've known / since.
+Explicacion: EXPLICACIÓN:
+Es una vieja amiga. La conozco durante años.
+A) Respuesta incorrecta:
+No usamos el presente perfecto para acciones del pasado que duran en el presente (mala traducción).
+B) Respuesta correcta:
+Uso del presente perfecto para acciones que comenzaron en el pasado y siguen en el presente.
+FOR, para periodos de tiempo.
+C) Respuesta incorrecta:
+No usamos "since" para periodos de tiempo.
+---------------------------------
+Pregunta: 8
+Enunciado: I went to London ______ clothes:
+Respuesta: For buy.
+Respuesta Correcta: To buy.
+Respuesta: For buying.
+Explicacion: EXPLICACIÓN:
+Fui a Londres para comprar ropa.
+A) Respuesta incorrecta:
+Estructura incorrecta para referirnos a próposito.
+B) Respuesta correcta:
+Uso de "to" seguido de verbo en infinitivo para expresar propósito.
+C) Respuesta incorrecta:
+El uso de "for" seguido de verbo con -ing, indica la funcionalidad de un objeto.
+---------------------------------
+Pregunta: 9
+Enunciado: _______ Gloria last week?:
+Respuesta: Have you seen.
+Respuesta Correcta: Did you see.
+Respuesta: Had you seen.
+Explicacion: EXPLICACIÓN:
+¿Viste a Gloria la semana pasada?
+A) Respuesta incorrecta:
+No usamos el "presente perfecto simple" con complementos referidos al pasado "last...".
+B) Respuesta correcta:
+Estructura de pasado simple en interrogativa al tener el complemento "last week".
+C) Respuesta incorrecta:
+No usamos el pasado perfecto simple con complementos referidos al pasado.
+---------------------------------
+Pregunta: 10
+Enunciado: You can't survive very long without ______:
+Respuesta: To eat.
+Respuesta: Eat.
+Respuesta Correcta: Eating.
+Explicacion: EXPLICACIÓN:
+No puedes sobrevivir mucho sin comer.
+A) Respuesta incorrecta:
+Después de preposición el verbo acaba en -ing.
+B) Respuesta incorrecta:
+Después de preposición el verbo acaba en -ing.
+C) Respuesta correcta:
+Después de preposición el verbo acaba en -ing.
+---------------------------------
+Pregunta: 11
+Enunciado: The train is _____ the plane:
+Respuesta Correcta: Cheaper than.
+Respuesta: Cheaper that.
+Respuesta: More cheaper than.
+Explicacion: EXPLICACIÓN:
+El tren es más barato que el avión.
+A) Respuesta correcta:
+Estructua de adjetivo comparativo. Al ser el adjetivo de una sílaba, añadimos -er.
+B) Respuesta incorrecta:
+El "que" comparativo es THAN.
+C) Respuesta incorrecta:
+No añadimos "more" a los adjetivos de una sílaba.
+---------------------------------
+Pregunta: 12
+Enunciado: Bob: What _____ you do if you _____ a lot of money ? James: I'd buy a car:
+Respuesta Correcta: Would / had.
+Respuesta: Do / can have.
+Respuesta: Can / have.
+Explicacion: EXPLICACIÓN:
+Bob: ¿Qué harías si tuvieras mucho dinero?
+James: Me compraría un coche.
+A) Respuesta correcta:
+Estructura de segunda condicional: IF+pasado simple, WOULD+verbo en infinitivo.
+B) Respuesta incorrecta:
+Estructura incorrecta para hacer la condicional.
+C) Respuesta incorrecta:
+No tiene sentido en inglés la pregunta.
+---------------------------------
+Pregunta: 13
+Enunciado: She ______ be American, as she doesn't have an American accent:
+Respuesta Correcta: Can't.
+Respuesta: Might.
+Respuesta: Mustn't.
+Explicacion: EXPLICACIÓN:
+Ella no puede ser Americana, ya que no tiene acento americano.
+A) Respuesta correcta:
+Uso del modal "can't" para referirnos a una certeza en negativa.
+B) Respuesta incorrecta:
+Al tener el contexto NO es correcto el uso del modal "might" para probabilidad.
+C) Respuesta incorrecta:
+Modal que indica prohibición.
+---------------------------------
+Pregunta: 14
+Enunciado: What is the ____ professional experience you've had in your military career?:
+Respuesta: Most good.
+Respuesta Correcta: Hardest.
+Respuesta: Better.
+Explicacion: EXPLICACIÓN:
+¿Cuál es la experiencia más dura que has tenido en tu carrera militar?.
+A) Respuesta incorrecta:
+HORROR!!. El adjetivo "good" no admite el uso de "most".
+B) Respuesta correcta:
+Uso del superlativo con adjetivo monosílabo, por lo tanto añadimos -est.
+C) Respuesta incorrecta:
+La oración no pide un comparativo.
+---------------------------------
+Pregunta: 15
+Enunciado: Imagine! This time tomorrow we ____ on the beach:
+Respuesta: Have laid.
+Respuesta: Will lay.
+Respuesta Correcta: Will be lying.
+Explicacion: EXPLICACIÓN:
+Imagina! A esta hora mañana estaremos tumbados en la playa.
+A) Respuesta incorrecta:
+Estructura incorrecta al ser futuro no usamos el presente perfecto.
+B) Respuesta incorrecta:
+El futuro simple no enfatiza la duración de la acción.
+C) Respuesta correcta:
+Estructura de futuro continuo para enfatizar la acción en el futuro: WILL BE+verbo -ing.
+---------------------------------
+Pregunta: 16
+Enunciado: The sooner you start, ______ you'll finish:
+Respuesta: Sooner.
+Respuesta Correcta: The sooner.
+Respuesta: The sooner tan.
+Explicacion: EXPLICACIÓN:
+Cuanto antes empieces, antes acabarás.
+A) Respuesta incorrecta:
+Falta el artículo "the".
+B) Respuesta correcta:
+Expresión.
+C) Respuesta incorrecta:
+Incorrecto el uso de "tan".
+---------------------------------
+Pregunta: 17
+Enunciado: Remember that you have to turn off all the lights _____ the office. Bob:
+Respuesta: Before to leave.
+Respuesta: Before you're leaving.
+Respuesta Correcta: Before leaving.
+Explicacion: EXPLICACIÓN:
+Recuerda que tienes que apagar todas las luces antes de salir.
+A) Respuesta incorrecta.
+Después de preposición el verbo acaba en -ing.
+B) Respuesta incorrecta:
+Estructura incorrecta; no usamos el presente continuo.
+C) Respuesta correcta:
+Después de preposición el verbo acaba en -ing.
+---------------------------------
+Pregunta: 18
+Enunciado: I can't move this box by myself because it’s _______:
+Respuesta: Very heavy.
+Respuesta: Too much heavy.
+Respuesta Correcta: Too heavy.
+Explicacion: EXPLICACIÓN:
+No puedo mover esta caja solo porque es demasiado pesada.
+A) Respuesta incorrecta:
+Al estar en negativo no podemos usar very.
+The coffee is very hot, but I CAN drink it.
+B) Respuesta incorrecta:
+Usamos "too much" con sustativos incontables,
+C) Respuesta correcta:
+Al estar en negativa la acción usamos "too" para enfatizar.
+The coffee is too hot. I CAN'T drink it.
+---------------------------------
+Pregunta: 19
+Enunciado: I _____ , when suddenly that noise _____ to sound:
+Respuesta: Studied / started.
+Respuesta: Was studying / was starting.
+Respuesta Correcta: Was studying / started.
+Explicacion: EXPLICACIÓN:
+Estaba estudiando cuando de repente ese sonido empezó a sonar.
+A) Respuesta incorrecta:
+No son dos acciones consecutivas para usar el pasado simple en ambas.
+B) Respuesta incorrecta:
+No son dos acciones simultaneas para usar el pasado continuo en ambas.
+C) Respuesta correcta:
+Usamos el pasado continuo para enfatizar la duración de la acción interrumpida por otra en pasado simple.
+---------------------------------
+
